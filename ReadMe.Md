@@ -67,5 +67,5 @@
 - encrypting existing files
 - viewing content of encrypted files
 - editing an encrypted file
-- decrypting encrypted files
+- decrypting encrypted files 
 
